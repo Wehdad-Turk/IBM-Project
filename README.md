@@ -1,1 +1,1 @@
-It is a markdown file in the repository
+In this project I have used `yfinance` and `BeautifulSoup` python libraries to scrap the `tesla` and `` stocks data and build their dashboards. 
